@@ -354,8 +354,8 @@
                     </li>
                     <li class="list-group-item">
                         <div class="fw-bold">DANA</div>
-                        <img sizes="10%" src="img/dn.png" alt="biru" class="img-thumbnail" width="150">
-                        <a href="https://link.dana.id/qr/4zn1z1u" class="btn btn-primary my-1" role="button">Klik Disini</a>a>
+                        <img src="img/dn.png" alt="biru" class="img-thumbnail" width="150">
+                        <a href="https://link.dana.id/qr/4zn1z1u" class="btn btn-primary my-1" role="button">Klik Disini</a>
                     </li>
                     <li class="list-group-item">
                         <div class="fw-bold">Ke Alamat</div>
@@ -477,13 +477,13 @@
         audioIconWrapper.onclick=function(){
             if(isPlaying){
                 song.pause();
-                audioIcon.classList.remove('bi-pause-circle');
-                audioIcon.classList.add('bi-play-circle');
+                audioIcon.classList.remove('bi-play-circle');
+                audioIcon.classList.add('bi-pause-circle');
             }
             else{
                 song.play();
-                audioIcon.classList.remove('bi-play-circle');
-                audioIcon.classList.add('bi-pause-circle');
+                audioIcon.classList.remove('bi-pause-circle');
+                audioIcon.classList.add('bi-play-circle');
             }
             isPlaying=!isPlaying;
         }
