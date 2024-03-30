@@ -477,13 +477,13 @@
         audioIconWrapper.onclick=function(){
             if(isPlaying){
                 song.pause();
-                audioIcon.classList.remove('bi-play-circle');
-                audioIcon.classList.add('bi-pause-circle');
+                audioIcon.classList.remove('bi-pause-circle');
+                audioIcon.classList.add('bi-play-circle');
             }
             else{
                 song.play();
-                audioIcon.classList.remove('bi-pause-circle');
-                audioIcon.classList.add('bi-play-circle');
+                audioIcon.classList.remove('bi-play-circle');
+                audioIcon.classList.add('bi-pause-circle');
             }
             isPlaying=!isPlaying;
         }
