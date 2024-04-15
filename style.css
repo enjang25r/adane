@@ -306,7 +306,8 @@
     border-radius: 3%;
     padding: 1.5rem;
     position: relative;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
+    color: #fff;
     
 }
 
@@ -320,7 +321,8 @@
     border-left: solid transparent;
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
+    color: #fff;
     right: -10px;
     top: 70px;
     transform: rotate(45deg);
@@ -332,7 +334,8 @@
     position :absolute;
     width: 19px;
     height: 19px;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
+    color: #fff;
     right: -9px;
     top: 70px;
     transform: rotate(45deg);
@@ -352,7 +355,7 @@
     border-left: solid transparent;
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
-    background-color: ##ffe7e5;
+    background-color: var(--ungu);
     left: -10px;
     top: 70px;
     transform: rotate(230deg);
@@ -364,7 +367,7 @@
     position :absolute;
     width: 19px;
     height: 19px;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
     left: -9px;
     top: 70px;
     transform: rotate(230deg);
@@ -432,6 +435,7 @@ footer a:hover{
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
     background-color: #ffe7e5;
+    color: #fff;
     left: -10px;
     right: auto;
     top: 70px;
@@ -445,6 +449,7 @@ footer a:hover{
     width: 19px;
     height: 19px;
     background-color: #ffe7e5;
+    color: #fff;
     left: -9px;
     right: auto;
     top: 70px;
