@@ -320,7 +320,7 @@
     border-left: solid transparent;
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
-    background-color: #fff;
+    background-color: #ffe7e5;
     right: -10px;
     top: 70px;
     transform: rotate(45deg);
@@ -332,7 +332,7 @@
     position :absolute;
     width: 19px;
     height: 19px;
-    background-color: #fff;
+    background-color: #ffe7e5;
     right: -9px;
     top: 70px;
     transform: rotate(45deg);
@@ -364,7 +364,7 @@
     position :absolute;
     width: 19px;
     height: 19px;
-    background-color: #fff;
+    background-color: #ffe7e5;
     left: -9px;
     top: 70px;
     transform: rotate(230deg);
