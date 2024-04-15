@@ -431,7 +431,7 @@ footer a:hover{
     border-left: solid transparent;
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
-    background-color: #fff;
+    background-color: #ffe7e5;
     left: -10px;
     right: auto;
     top: 70px;
@@ -444,7 +444,7 @@ footer a:hover{
     position :absolute; 
     width: 19px;
     height: 19px;
-    background-color: #fff;
+    background-color: #ffe7e5;
     left: -9px;
     right: auto;
     top: 70px;
