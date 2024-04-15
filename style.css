@@ -98,9 +98,8 @@
 
 .home{
     background-image: url(img/bgwd.jpg);
-    background-size: cover;
+    background-repeat: default;
     min-height: 100vh;
-    background-position: center;
     margin-top: -6rem;
     padding-top: 9rem;
     
