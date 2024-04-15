@@ -266,6 +266,10 @@
     left: 50%;
 }
 
+.timeline span{
+    color: #fff;
+}
+
 .timeline li{
     margin-bottom: 1.5rem;
     position: relative;
@@ -434,7 +438,7 @@ footer a:hover{
     border-left: solid transparent;
     border-right: solid #ccc 1px;
     border-bottom: solid transparent;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
     color: #fff;
     left: -10px;
     right: auto;
@@ -448,7 +452,7 @@ footer a:hover{
     position :absolute; 
     width: 19px;
     height: 19px;
-    background-color: #ffe7e5;
+    background-color: var(--ungu);
     color: #fff;
     left: -9px;
     right: auto;
