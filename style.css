@@ -108,9 +108,10 @@
 
 }
 
-.home h2, .gallery h2, .gifts h2{
+.home h2, .gallery h2, .gifts h2, .story h2{
     color: var(--ungu);
-    background-color: rgb(255 255 255 /0.4);
+    background-color: rgb(255 255 255 /0.7);
+    border-radius: 21px;
     font-family: 'Sacramento';
     font-size: 5rem;
     text-shadow: 0 3px 2px rgb(50 50 50 / 0.3);
@@ -151,7 +152,6 @@
 
 .home .couple img{
     width: 100%;
-    background-color: rgb(255 255 255 /0.4);
     animation: fade-in ease-in forwards;
     animation-timeline: view();
     animation-range: entry-crossing;
