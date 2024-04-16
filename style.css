@@ -98,7 +98,7 @@
 
 .home{
     background-image: url(img/bgwdc.jpg);
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     min-height: 100vh;
@@ -244,9 +244,10 @@
 
 .story, .gifts, .gallery{
     background-image: url(img/bgwdc.jpg);
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    min-height: 100vh;
     margin-top: -6rem;
     padding-top: 9rem;
 }
