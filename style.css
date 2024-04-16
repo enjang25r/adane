@@ -97,8 +97,10 @@
 }
 
 .home{
-    background-image: url(img/bgwd.jpg);
-    background-repeat: default;
+    background-image: url(img/bgwdc.jpg);
+    background-repeat: no repeat;
+    background-position: center;
+    background-attachment: fixed;
     min-height: 100vh;
     margin-top: -6rem;
     padding-top: 9rem;
@@ -241,9 +243,10 @@
 }
 
 .story, .gifts, .gallery{
-    background-image: url(img/bgwd.jpg);
-    background-repeat: default;
-    min-height: 100vh;
+    background-image: url(img/bgwdc.jpg);
+    background-repeat: no repeat;
+    background-position: center;
+    background-attachment: fixed;
     margin-top: -6rem;
     padding-top: 9rem;
 }
