@@ -7,7 +7,7 @@
 }
 
 .body{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-family: 'Work Sans', sans-serif;
     min-height: 2000px;
     padding-right: none;
@@ -128,13 +128,13 @@
 
 .home p{
     font-family: 'Work Sans';
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     color: #222;
     
 }
 .home h5{
     font-family: 'Work Sans';
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #222;
     font-style: italic;
     
